@@ -3,6 +3,13 @@
   "versions": [
     {
       "version": "0.0.3",
+      "desc": "bugfix",
+      "sha256": "b8f091cdd86f217b79194ac8ad020bdc52ecd4f96458f072f498437c6fec91f5",
+      "url": "https://github.com/ytsteven/easyuseai-plugin-openai-polisher/releases/download/v0.0.3/openai-polisher-0.0.3.aiplugin",
+      "minVersion": "0.4.0"
+    },
+    {
+      "version": "0.0.3",
       "desc": "对齐原版版本号",
       "sha256": "00e9f44bb1971d947bf49ea02b95c06a2802be0888aeda706263896342efd0a8",
       "url": "https://github.com/ytsteven/easyuseai-plugin-openai-polisher/releases/download/v0.0.3/openai-polisher-0.0.3.aiplugin",
