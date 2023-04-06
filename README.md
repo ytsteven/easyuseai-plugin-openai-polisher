@@ -1,3 +1,6 @@
+
+# 已经迁移到易用AI，可下载[易用AI插件]（https://github.com/ytsteven/easyuseai-plugin-openai-polisher/releases）使用 .aiplugin 文件
+
 OpenAI Polisher Bob Plugin
 ----------------------------
 
