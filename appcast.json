@@ -2,6 +2,13 @@
   "identifier": "xyz.yetone.openai.polisher",
   "versions": [
     {
+      "version": "0.0.4",
+      "desc": "update appcast.json",
+      "sha256": "e9a3a84fcd57609ab8568c29084c80290afb59737175c71cbd1f46dd66cb3917",
+      "url": "https://github.com/ytsteven/easyuseai-plugin-openai-polisher/releases/download/v0.0.4/openai-polisher-0.0.4.aiplugin",
+      "minVersion": "0.4.0"
+    },
+    {
       "version": "0.0.3",
       "desc": "bugfix",
       "sha256": "b8f091cdd86f217b79194ac8ad020bdc52ecd4f96458f072f498437c6fec91f5",
